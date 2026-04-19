@@ -82,7 +82,8 @@ README.md               ← This file
 
 If you are struggling, please reach out:
 
-- 🇺🇬 **Butabika National Referral Hospital (Uganda):** +256 (0)414 505 000
+- 🇺🇬 **Butabika National Referral Hospital (Uganda):** +256 414 504 375
+- Toll Free: 0800 211 306
 - 🌍 **Befrienders Worldwide:** [befrienders.org](https://www.befrienders.org)
 - 🌐 **Crisis Text Line:** [crisistextline.org](https://www.crisistextline.org)
 - 🏥 **WHO Mental Health:** [who.int/mental_health](https://www.who.int/mental_health)
