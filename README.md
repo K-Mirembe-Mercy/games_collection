@@ -2,7 +2,6 @@
 
 This repository contains simple games and programs built using Python and C as part of my learning journey in programming.
 
----
 
 📁 Project Structure
 
