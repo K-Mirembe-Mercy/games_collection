@@ -19,7 +19,7 @@ Some of the games included:
 - Space Shooter
 - Calculator
 - Password Generator
-- And more...
+- And more coming soon...
 
 ---
 
