@@ -8,7 +8,6 @@ This repository contains simple games and programs built using Python and C as p
 python/   → Python games  
 c/        → C programs and games  
 
----
 
 🚀 Python Games
 
