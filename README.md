@@ -20,7 +20,6 @@ Some of the games included:
 - Password Generator
 - And more coming soon...
 
----
 
 🔧 C Programs
 
