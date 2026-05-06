@@ -27,7 +27,6 @@ Some of the games included:
 - Student Profile Program
 - More coming soon...
 
----
 
 💡 Purpose
 
@@ -38,7 +37,6 @@ This project is part of my journey to:
 - Build real projects
 - Prepare for internships and open-source contributions
 
----
 
 🛠️ Technologies Used
 
