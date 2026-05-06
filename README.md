@@ -44,7 +44,6 @@ This project is part of my journey to:
 - C
 - Git & GitHub
 
----
 
 ✨ Future Improvements
 
@@ -53,12 +52,10 @@ This project is part of my journey to:
 - Add better user interaction
 - Organize projects further
 
----
 
 👩‍💻 Author
 
 Mirembe Mercy
 
----
 
 ⭐ Feel free to explore and give feedback!
