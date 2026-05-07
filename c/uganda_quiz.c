@@ -5,11 +5,8 @@
 
 #define MAX_OPTIONS 4
 #define TOTAL_QUESTIONS 15
-#define TOTAL_TRIBES 10
 
-// ─────────────────────────────────────────────
 // DATA STRUCTURES
-// ─────────────────────────────────────────────
 
 typedef struct {
     char question[300];
