@@ -20,13 +20,11 @@ Some of the games included:
 - Password Generator
 - And more coming soon...
 
-
 🔧 C Programs
 
 - Number Guessing Game 🎯
 - Student Profile Program
 - More coming soon...
-
 
 💡 Purpose
 
@@ -37,13 +35,11 @@ This project is part of my journey to:
 - Build real projects
 - Prepare for internships and open-source contributions
 
-
 🛠️ Technologies Used
 
 - Python
 - C
 - Git & GitHub
-
 
 ✨ Future Improvements
 
@@ -56,6 +52,5 @@ This project is part of my journey to:
 👩‍💻 Author
 
 Mirembe Mercy
-
 
 ⭐ Feel free to explore and give feedback!
